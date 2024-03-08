@@ -1,5 +1,5 @@
-Hello Webprog! MI222
-
+Welcome to CI4 Webprog MI222!
 <?php
 
-echo img('images/picture.jpg', true);
+echo img('images/favicon.ico');
+?>

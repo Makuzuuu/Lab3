@@ -572,7 +572,7 @@ abstract class BaseConnection implements ConnectionInterface
         $queryClass = $queryClass ?: $this->queryClass;
 
         if (empty($this->connID)) {
-            $this->initialize();
+           $this->initialize();
         }
 
         /**
